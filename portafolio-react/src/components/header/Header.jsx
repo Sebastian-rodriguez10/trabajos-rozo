@@ -9,6 +9,7 @@ return (
 <a href="#introduccion">Sobre mí</a>
 <a href="#proyectos">Proyectos</a>
 <a href="#estudios">Estudios</a>
+<a href="#contactenos">Contacto</a>
 </nav>
 </header>
 );

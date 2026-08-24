@@ -2,7 +2,7 @@ import "./Contactenos.css";
 
 export const Contactenos = () => {
   return (
-    <section className="contactenos">
+    <section className="contactenos" id="contactenos">
       <h2>Contáctame</h2>
 
       <p>
