@@ -1,0 +1,41 @@
+.contactenos {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.contactenos h2 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.contactenos > p {
+  margin-bottom: 30px;
+}
+
+.contacto-info {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.contacto-item {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 20px;
+  border-radius: 10px;
+  min-width: 280px;
+}
+
+.contacto-item span {
+  font-size: 2rem;
+}
+
+.contacto-item h3 {
+  margin: 0 0 5px;
+}
+
+.contacto-item p {
+  margin: 0;
+}
