@@ -26,6 +26,14 @@ export const Contactenos = () => {
             <p>+57 300 000 0000</p>
           </div>
         </div>
+
+        <div className="contacto-item">
+          <span>📲</span>
+          <div>
+            <h3>Contacto de emergencia</h3>
+            <p>606 000 00 00</p>
+          </div>
+        </div>
       </div>
     </section>
   );
